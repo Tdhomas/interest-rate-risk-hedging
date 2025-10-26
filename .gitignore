@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+*.xlsx
+
+# Reports/figures generated at runtime (optional)
+reports/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
